@@ -10,3 +10,4 @@ Collection of manually fixed charts
 | VW      | Valanga(polysha Remix)                  | valangarmx_polysha     | Knobs  | Spitlight | 04/02/2020 |
 | GW      | ヒミツダイヤル                          | himitsu_dial_kokonatsu | Knobs  | Spitlight | 04/02/2020 |
 | VW      | 怪盗Ｆの台本～消えたダイヤの謎～          | kaitouf_matsushita | Artist name too long  | Spitlight | 04/05/2020 |
+| HH      | Altale          | altale_sakujo | Knobs  | TsFreddie | 04/12/2020 |
