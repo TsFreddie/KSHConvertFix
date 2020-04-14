@@ -9,7 +9,7 @@ Collection of manually fixed charts
 | GW      | グレイスちゃんの超～絶!!グラビティ講座w | tutorial_grace         | Cam    | TsFreddie | 12/05/2019 |
 | ~VW~      | ~Valanga(polysha Remix)~                  | ~valangarmx_polysha~     | ~Knobs~  | ~Spitlight~ | ~04/02/2020~ |
 | ~GW~      | ~ヒミツダイヤル~                          | ~himitsu_dial_kokonatsu~ | ~Knobs~  | ~Spitlight~ | ~04/02/2020~ |
-| ~VW~      | ~怪盗Ｆの台本～消えたダイヤの謎～          | ~kaitouf_matsushita~ | ~Artist name too long~  | ~Spitlight~ | ~04/05/2020~ |
+| ~VW~      | ~怪盗Ｆの台本～消えたダイヤの謎～~         | ~kaitouf_matsushita~ | ~Artist name too long~  | ~Spitlight~ | ~04/05/2020~ |
 | ~HH~      | ~Altale~          | ~altale_sakujo~ | ~Knobs~  | ~TsFreddie~ | ~04/12/2020~ |
 | ALL      | [Update Pack 1](https://github.com/TsFreddie/KSHConvertFix/releases/download/pack-1/Update-Pack-1.zip)      | - | [Changelog](https://github.com/TsFreddie/KSHConvertFix/releases/tag/pack-1) | TsFreddie | 04/14/2020 |
 
