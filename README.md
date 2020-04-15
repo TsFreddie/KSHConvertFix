@@ -1,6 +1,8 @@
 # KSHConvertFix
 Collection of manually fixed charts
 
+## Chart Fixes
+
 | Version | Song                                    | Folder                 | Reason | Fixed by  | Date       |
 |---------|-----------------------------------------|------------------------|--------|-----------|------------|
 | VW      | ShockWAVE                               | echibasss_kameria      | Timing critical Audio FX | TsFreddie | 12/05/2019 |
@@ -18,3 +20,12 @@ Collection of manually fixed charts
 
 ### What is update pack?
 A major update of VOX2KSH has been released which affect all charts. Therefore a re-exported pack is provided to apply all new changes and fixes. A update pack will include all charts except for previously hand-made charts. Click the update pack name for download. Click changelog to see what have been changed.
+
+## USC Fixes
+These fixes under \[USC ONLY\] folder only applies to __[unnamed-sdvx-clone](https://github.com/Drewol/unnamed-sdvx-clone)__. 
+
+USC has vastly different audio effect engine. Charts will sound different in USC and most of the time won't be able to reproduce audio effect similar to SDVX. We generally don't fix charts that sound different from the original but still playable. However, there might be chances that the different parser and/or audio engine completely break a chart. So the following charts are provided to fix them for USC only.
+
+| Version | Song                                    | Folder                 | Reason | Fixed by  | Date       |
+|---------|-----------------------------------------|------------------------|--------|-----------|------------|
+| GW      | Destroy                               | destroy_yooh      | Laser FX mix volume | TsFreddie | 04/15/2020 |
