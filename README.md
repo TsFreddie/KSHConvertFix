@@ -18,7 +18,7 @@ Collection of manually fixed charts
 ### Why are some charts removed?
 ~Struck-through~ means the chart is now converted correctly by VOX2KSH, and a update pack is released to include fixed charts, so the manual fix has been removed.
 
-### What is update pack?
+### What are update packs?
 A major update of VOX2KSH has been released which affect all charts. Therefore a re-exported pack is provided to apply all new changes and fixes. A update pack will include all charts except for previously hand-made charts. Click the update pack name for download. Click changelog to see what have been changed.
 
 ## USC Fixes
