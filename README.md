@@ -13,7 +13,8 @@ Collection of manually fixed charts
 | ~GW~      | ~ヒミツダイヤル~                          | ~himitsu_dial_kokonatsu~ | ~Knobs~  | ~Spitlight~ | ~04/02/2020~ |
 | ~VW~      | ~怪盗Ｆの台本～消えたダイヤの謎～~         | ~kaitouf_matsushita~ | ~Artist name too long~  | ~Spitlight~ | ~04/05/2020~ |
 | ~HH~      | ~Altale~          | ~altale_sakujo~ | ~Knobs~  | ~TsFreddie~ | ~04/12/2020~ |
-| ALL      | [Update Pack 1](https://github.com/TsFreddie/KSHConvertFix/releases/download/pack-1/Update-Pack-1.zip)      | - | [Changelog](https://github.com/TsFreddie/KSHConvertFix/releases/tag/pack-1) | TsFreddie | 04/14/2020 |
+| ALL      | Update Pack 1      | - | [Changelog](https://github.com/TsFreddie/KSHConvertFix/releases/tag/pack-1) | TsFreddie | 04/14/2020 |
+| ALL      | [Update Pack 2](https://github.com/TsFreddie/KSHConvertFix/releases/download/pack-2/Update-Pack-2.zip)      | - | [Changelog](https://github.com/TsFreddie/KSHConvertFix/releases/tag/pack-2) | TsFreddie | 04/16/2020 |
 
 ### Why are some charts removed?
 ~Struck-through~ means the chart is now converted correctly by VOX2KSH, and a update pack is released to include fixed charts, so the manual fix has been removed.
