@@ -16,6 +16,7 @@ Collection of manually fixed charts
 | ALL      | Update Pack 1      | - | [Changelog](https://github.com/TsFreddie/KSHConvertFix/releases/tag/pack-1) | TsFreddie | 04/14/2020 |
 | ALL      | [Update Pack 2](https://github.com/TsFreddie/KSHConvertFix/releases/download/pack-2/Update-Pack-2.zip)      | - | [Changelog](https://github.com/TsFreddie/KSHConvertFix/releases/tag/pack-2) | TsFreddie | 04/16/2020 |
 | II      | KHAMEN BREAK    | khamen_break_khufuoh | Timing critical Audio FX | TsFreddie | 04/16/2020 |
+| HH      | インビジブル    | invisible_kemu | Timing critical Audio FX | TsFreddie | 04/16/2020 |
 
 ### Why are some charts removed?
 ~Struck-through~ means the chart is now converted correctly by VOX2KSH, and a update pack is released to include fixed charts, so the manual fix has been removed.
